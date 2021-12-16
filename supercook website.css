@@ -147,13 +147,6 @@ img {
 
 @media screen and (max-width:700px) {
 
-    img {
-        max-width: 200%;
-        height: 200px;
-        padding-left: 60px;
-        margin-left: 20px;
-        box-sizing: border-box;
-    }
 
     header {
         padding-left: 50px;
@@ -166,10 +159,6 @@ img {
 
     .link p {
         font-size: 90%;
-    }
-
-    .cycle-slideshow {
-        position: absolute;
     }
     
 }
