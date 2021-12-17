@@ -39,6 +39,10 @@ body {
     max-width: 400px;
 }
 
+.gallery-img img {
+    display: block;
+}
+
 /* end gallery decoration */
 
 /* link decoration */
