@@ -33,6 +33,14 @@ body {
     padding: 0;
 }
 
+/* gallery decoration */
+
+.gallery-img {
+    max-width: 400px;
+}
+
+/* end gallery decoration */
+
 /* link decoration */
 .link {
     margin-top: 20px;
