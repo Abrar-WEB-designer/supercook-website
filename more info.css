@@ -38,6 +38,8 @@ body {
 
 .gallery-img {
     max-width: 940px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .gallery-img img {
