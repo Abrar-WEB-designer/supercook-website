@@ -43,6 +43,7 @@ body {
 .gallery-img img {
     display: block;
     background-color: #fff;
+    transform: scale(.5);
 }
 
 /* end gallery decoration */
