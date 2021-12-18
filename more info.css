@@ -38,7 +38,6 @@ body {
 
 .gallery-img {
     max-width: 400px;
-    display: flex;
 }
 
 .gallery-img img {
@@ -47,7 +46,7 @@ body {
 }
 
 .gallery-img-1 {
-    flex: 1;
+    width: 20%;
 }
 
 /* end gallery decoration */
