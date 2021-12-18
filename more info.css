@@ -8,6 +8,10 @@ header h1 {
     font-size: 165%;
 }
 
+h2 {
+    padding-top: 10px;
+}
+
 .content-area {
     background-color: #fff;
     padding-top: 30px;
@@ -44,6 +48,10 @@ img {
 .gallery-img a {
     float: left;
     width: 25%;
+}
+
+.gallery-img img {
+    display: block;
 }
 
 /* end gallery
