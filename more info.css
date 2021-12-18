@@ -58,7 +58,7 @@ img {
     transition: all .2s ease-in-out;
 }
 
-.gallery-img:hover {
+.gallery-img:hover img {
     opacity: .6;
     transform: scale(.92);
 }
