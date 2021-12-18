@@ -48,6 +48,8 @@ img {
 .gallery-img a {
     float: left;
     width: 25%;
+    padding-right: 15px;
+    box-sizing: border-box;
 }
 
 .gallery-img img {
