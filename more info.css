@@ -26,6 +26,7 @@ header {
 .container {
     max-width: 940px;
     margin: 0 auto;
+    background-color: #fff;
 }
 
 body {
