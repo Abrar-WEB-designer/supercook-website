@@ -70,6 +70,10 @@ img {
     opacity: 1;
 }
 
+.gallery-img {
+    padding-left: 10px;
+}
+
 /* end gallery */
 
 /* link decoration */
