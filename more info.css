@@ -23,11 +23,9 @@ header {
     margin: 0 auto;
 }
 
-
 .container {
     max-width: 940px;
     margin: 0 auto;
-    background-color: #fff;
 }
 
 body {
@@ -43,10 +41,17 @@ body {
 
 .gallery-img img {
     display: block;
-    size: 300px;
+    padding-left: 205px;
+    background-color: #fff;
 }
 
 /* end gallery decoration */
+
+
+
+
+
+
 
 /* link decoration */
 .link {
