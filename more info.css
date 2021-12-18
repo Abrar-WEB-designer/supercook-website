@@ -55,9 +55,22 @@ img {
 
 .gallery-img img {
     display: block;
+    transition: all .2s ease-in-out;
 }
 
-/* end gallery
+.gallery-img:hover {
+    opacity: .6;
+    transform: scale(.92);
+}
+
+.gallery-img img:hover {
+    transform: rotate(2deg);
+    box-shadow: 0 0 7px (rgba(0, 0, 0, .5));
+    transform: scale(1);
+    opacity: 1;
+}
+
+/* end gallery */
 
 /* link decoration */
 .link {
