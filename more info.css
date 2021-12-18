@@ -36,6 +36,11 @@ body {
 
 /* gallery */
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 .gallery-img a {
     float: left;
     width: 25%;
