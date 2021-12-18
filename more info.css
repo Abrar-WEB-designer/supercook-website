@@ -34,7 +34,14 @@ body {
     padding: 0;
 }
 
-/* 
+/* gallery */
+
+.gallery-img a {
+    float: left;
+    width: 25%;
+}
+
+/* end gallery
 
 /* link decoration */
 .link {
