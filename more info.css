@@ -34,24 +34,6 @@ body {
     padding: 0;
 }
 
-/* gallery decoration */
-
-.gallery-img {
-    max-width: 940px;
-    display: flex;
-    justify-content: space-between;
-}
-
-.gallery-img img {
-    display: block;
-    background-color: #fff;
-}
-
-.gallery-img-1 {
-    width: 20%;
-}
-
-/* end gallery decoration */
 
 
 
