@@ -22,16 +22,21 @@ header h1 {
 .link-btn {
     display: none;
 }
-.link-btn-visible {
-    display: block;
-}
 
-.toggle-target-hidden {
-    display: none;
-}
+@media screen and (max-width:700px){
 
-.toggle-target-expanded {
-    display: block;
+    .link-btn-visible {
+        display: block;
+    }
+    
+    .toggle-target-hidden {
+        display: none;
+    }
+    
+    .toggle-target-expanded {
+        display: block;
+    }
+    
 }
 
 /* end link button styles */
