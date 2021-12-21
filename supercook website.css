@@ -18,6 +18,24 @@ header h1 {
     font-size: 165%;
 }
 
+/* link button styles */
+.link-btn {
+    display: none;
+}
+.link-btn-visible {
+    display: block;
+}
+
+.toggle-target-hidden {
+    display: none;
+}
+
+.toggle-target-expanded {
+    display: block;
+}
+
+/* end link button styles */
+
 
 .container {
     max-width: 940px;
